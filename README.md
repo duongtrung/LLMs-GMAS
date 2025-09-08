@@ -1,3 +1,3 @@
 # LLMs-GMAS
 
-This repository is for demonstration purposes. The codebase was expected and adapted from [Build a Large Language Model from scratch](https://github.com/rasbt/LLMs-from-scratch). 
+This repository is for demonstration purposes. The codebase was extracted and adapted from [Build a Large Language Model from scratch](https://github.com/rasbt/LLMs-from-scratch) by Sebastian Raschka. I recommend buying and learning the [book](https://www.amazon.de/-/en/Build-Large-Language-Model-Scratch/dp/1633437167/ref=sr_1_1?crid=2PBXEH9QBZJPY&dib=eyJ2IjoiMSJ9.3ZAePWEmeg9GoDKd0fxCOtAIBvLzRcLtXQEW4ZRFMhoOPPtukuU0hrFo9XvQQPqfNZ621VpoRh2h-Sd5IAe5svOCISUdInv8r_-6J8xzwZYCLJdtxeh6DmgB35I9fY0tezcGF4v5T5slo4IfIzWw5fFI8_sZaEx2LLtPwcoaFyTvx_JAR8fyprk-_PsfB1w_EPBtb3CLgn0WD05ruV3nMiPw1FCObnddX2iBHfu9zyY.C4mIxdw3kGFEhhRjn6xop6tciNZ8Hh4Y-MIsxQy3iCA&dib_tag=se&keywords=build+a+large+language+model+from+scratch&qid=1757344837&sprefix=build+a+%2Caps%2C77&sr=8-1).
